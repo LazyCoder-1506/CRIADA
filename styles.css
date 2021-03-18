@@ -56,11 +56,11 @@ a{
   color: black;
 }
 #header{
-  background-image: linear-gradient(to bottom right, #070064, #A122DC);
+  background-image: linear-gradient(to bottom right, #070064, #2ec5ce);
   padding-top: 100px;
 }
 #header_btn{
-  background-image: linear-gradient(to top left, #070064, #A122DC);
+  background-image: linear-gradient(to top left, #070064, #2ec5ce);
   background-color: #000557;
 }
 #header_btn:hover{
